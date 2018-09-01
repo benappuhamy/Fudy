@@ -9,7 +9,7 @@
 </script>
 
 <body>
-<p> Fudy is a new application being developed by University of Melbourne students. We would like to thank you for allowing your curiosity to get the better of you and scanning the QR code!
+<p> Fudy is a new application being developed by University of Melbourne students. We would like to thank you for visiting this site and hope you can give us some feedback on the idea!
   <br />
 <p> Our vision for Fudy involves mapping out a selection of tables in the libraries and in the student lounges to help students like you find a place to study.
   <br />
